@@ -1,0 +1,16 @@
+{
+  "name": "RE4 Map Teleport",
+  "version": "0.2.0",
+  "cross_region_status": "experimental",
+  "game_steam_build_tested": "22377325",
+  "reframework_release_tested": "v1.5.9.1",
+  "reframework_commit_tested": "5bae4701396248a776c1de19f5be9552022295d5",
+  "anchor_dataset_source_commit": "aabd8b6e0178b9ee932e4d6b9f247853049ffee4",
+  "verified_stage_ids": [
+    47100,
+    40200,
+    46100,
+    44210
+  ],
+  "valley_stage_44400": "rejected; user walked there"
+}

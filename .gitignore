@@ -1,0 +1,7 @@
+dist/
+__pycache__/
+*.pyc
+*.log
+*.dll
+*.zip
+reframework/data/codex_map_teleport_status.json

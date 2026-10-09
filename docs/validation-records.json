@@ -1,0 +1,218 @@
+{
+  "verified_teleport.json": {
+    "actual": {
+      "x": 80.85558319091797,
+      "y": 9.498852729797363,
+      "z": -153.99639892578125
+    },
+    "destination": {
+      "floor": 2,
+      "stage": 47100,
+      "x": 80.85558319091797,
+      "y": 9.648794555664063,
+      "z": -153.99639892578125
+    },
+    "distance": 0.0,
+    "return_point": {
+      "stage": 47100,
+      "x": 78.85558319091797,
+      "y": 9.501028060913086,
+      "z": -153.99639892578125
+    },
+    "status": "Teleport complete"
+  },
+  "verified_return.json": {
+    "actual": {
+      "x": 78.85558319091797,
+      "y": 9.501028060913086,
+      "z": -153.99639892578125
+    },
+    "destination": {
+      "closed_since": 448.63,
+      "created": 448.617,
+      "stage": 47100,
+      "x": 78.85558319091797,
+      "y": 9.501028060913086,
+      "z": -153.99639892578125
+    },
+    "distance": 0.0,
+    "return_point": {
+      "stage": 47100,
+      "x": 78.85558319091797,
+      "y": 9.501028060913086,
+      "z": -153.99639892578125
+    },
+    "status": "Teleport complete"
+  },
+  "v2_village_pipeline_verified.json": {
+    "actual": {
+      "x": -47.620147705078125,
+      "y": 0.18107248842716217,
+      "z": 17.497663497924805
+    },
+    "destination": {
+      "floor": 1,
+      "stage": 40200,
+      "x": -47.619998931884766,
+      "y": 0.2110809326171875,
+      "z": 17.49799919128418
+    },
+    "distance": 0.00036718318941751524,
+    "return_point": {
+      "stage": 47100,
+      "x": 97.34020233154297,
+      "y": 8.179001808166504,
+      "z": -170.4498748779297
+    },
+    "status": "Teleport complete"
+  },
+  "v2_village_return_verified.json": {
+    "actual": {
+      "x": 97.30194854736328,
+      "y": 8.178771018981934,
+      "z": -170.4530487060547
+    },
+    "destination": {
+      "closed_since": 2853.504,
+      "created": 2853.492,
+      "load_stages": [
+        47100
+      ],
+      "next_try": 2855.225,
+      "preload_started": true,
+      "stage": 47100,
+      "x": 97.34020233154297,
+      "y": 8.179001808166504,
+      "z": -170.4498748779297
+    },
+    "distance": 0.038385220971529535,
+    "return_point": {
+      "stage": 47100,
+      "x": 97.34020233154297,
+      "y": 8.179001808166504,
+      "z": -170.4498748779297
+    },
+    "status": "Teleport complete"
+  },
+  "v2_factory_verified.json": {
+    "actual": {
+      "x": -1.9919999837875366,
+      "y": -0.6482635736465454,
+      "z": 189.44700622558594
+    },
+    "destination": {
+      "floor": 1,
+      "stage": 44210,
+      "x": -1.9919999837875366,
+      "y": -0.6482635498046875,
+      "z": 189.44700622558594
+    },
+    "distance": 0.0,
+    "return_point": {
+      "stage": 47100,
+      "x": 97.30104064941406,
+      "y": 8.178741455078125,
+      "z": -170.4688262939453
+    },
+    "status": "Teleport complete"
+  },
+  "codex_roundtrip_scene_probe.json": {
+    "destination": {
+      "collider": "st40_200_00",
+      "stage": 40200,
+      "x": -47.619998931884766,
+      "y": 0.21108856201171874,
+      "z": 17.49799919128418
+    },
+    "finished": true,
+    "kind": "village_roundtrip",
+    "original": {
+      "stage": 47100,
+      "x": 97.60980987548828,
+      "y": 8.178455352783203,
+      "z": -170.32415771484375
+    },
+    "phase": "done",
+    "return_actual": {
+      "stage": 47100,
+      "x": 97.47411346435547,
+      "y": 8.178406715393066,
+      "z": -170.3592071533203
+    },
+    "return_ground": {
+      "collider": "st47_100_00",
+      "stage": 47100,
+      "x": 97.60980987548828,
+      "y": 8.328466796875,
+      "z": -170.32415771484375
+    },
+    "return_success": true,
+    "village_actual": {
+      "stage": 40200,
+      "x": -47.624244689941406,
+      "y": 0.1762007474899292,
+      "z": 17.494762420654297
+    },
+    "village_success": true
+  },
+  "codex_lake_roundtrip_scene_probe.json": {
+    "destination": {
+      "collider": "st46_100_01",
+      "stage": 46100,
+      "x": 409.6780090332031,
+      "y": -7.347879028320312,
+      "z": -22.97599983215332
+    },
+    "finished": true,
+    "kind": "lake_roundtrip",
+    "original": {
+      "stage": 47100,
+      "x": 97.47771453857422,
+      "y": 8.178564071655273,
+      "z": -170.3611602783203
+    },
+    "phase": "done",
+    "return_actual": {
+      "stage": 47100,
+      "x": 97.34457397460938,
+      "y": 8.178818702697754,
+      "z": -170.44325256347656
+    },
+    "return_ground": {
+      "collider": "st47_100_00",
+      "stage": 47100,
+      "x": 97.47771453857422,
+      "y": 8.328565979003907,
+      "z": -170.3611602783203
+    },
+    "return_success": true,
+    "village_actual": {
+      "stage": 46100,
+      "x": 409.6778869628906,
+      "y": -7.497459888458252,
+      "z": -22.97426986694336
+    },
+    "village_success": true
+  },
+  "codex_valley_scene_probe.json": {
+    "finished": true,
+    "ground": null,
+    "kind": "bounded_load_probe",
+    "latest": {
+      "completed": true,
+      "rate": 1.0,
+      "ready": true,
+      "requested": false,
+      "target": 2,
+      "wait": false
+    },
+    "original": {
+      "stage": 44210,
+      "x": -1.9115315675735474,
+      "y": -0.7995957136154175,
+      "z": 189.2467803955078
+    },
+    "reason": "Loading timed out",
+    "target_stage": 44400
+  }
+}
